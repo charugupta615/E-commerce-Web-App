@@ -81,6 +81,3 @@ full_stack/
 
 ## License
 This project is for educational purposes. Feel free to use and modify it.
-
----
-**Made with ❤️ by charugupta615**
